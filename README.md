@@ -1,24 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saheb Singh
-===================================================================================================================================
+# Saheb Singh
 
-A passionate Frontend Developer
--------------------------------
+**Full-Stack Software Engineer · Backend-Focused**
 
-* 🌍  I'm based in Ahmedabad
-* 🖥️  See my portfolio at [MyPortfolio](http://alwayssaheb.netlify.app)
-* ✉️  You can contact me at [nagi.saheb029@gmail.com](mailto:nagi.saheb029@gmail.com)
-* 🧠  I'm learning Next js by doing Project
-* 🤝  I'm open to collaborating on Open source Project
-* ⚡  Love to talk about Research and Innovation!
+I build production web applications, scalable APIs, and real-time systems with Node.js, React, databases, and cloud infrastructure.
 
-### Skills
+[Portfolio](https://you-three-snowy.vercel.app) · [LinkedIn](https://www.linkedin.com/in/saheb-singh-b3a026195/) · [Email](mailto:saheb.singh.dev@gmail.com)
 
+## About
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+- I work across backend APIs, data modelling, authentication, payments, real-time communication, and production deployment.
+- My backend work includes REST APIs, PostgreSQL and MongoDB, Redis-backed workflows, WebSockets, and message queues.
+- I care about clear service boundaries, predictable data flows, useful validation, and systems that remain maintainable as products grow.
+- I have solved **400+ data structures and algorithms problems**, strengthening my problem-solving foundation in C++ and JavaScript.
 
+## Engineering toolkit
 
-### Socials
+| Area | Technologies |
+| --- | --- |
+| **Languages** | JavaScript, TypeScript, C++, SQL |
+| **Backend** | Node.js, Express.js, Next.js APIs, REST APIs, Socket.IO, BullMQ, RabbitMQ, JWT, Stripe |
+| **Frontend** | React, Next.js, Redux Toolkit, Tailwind CSS, HTML, CSS |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis, Prisma ORM, Mongoose |
+| **Cloud & DevOps** | AWS, EC2, Azure, Docker, Nginx, PM2, Vercel |
+| **Tools** | Git, GitHub, Postman, Jest |
 
-<p align="left"> <a href="https://www.github.com/alwayssaheb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/saheb-singh-b3a026195/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/alwayssaheb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+## Selected engineering work
+
+### [DevTinder](https://github.com/alwayssaheb/DevTinder-backend)
+
+A full-stack developer discovery platform with connection-gated real-time messaging and presence-aware notifications.
+
+`React 19` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Redis` `Socket.IO` `BullMQ`
+
+- Modelled discovery, connection requests, accepted connections, chat history, and notifications as separate backend domains.
+- Enforced accepted-connection permissions across both REST endpoints and Socket.IO events.
+- Used Redis for online-user presence and implemented a BullMQ worker path for asynchronous notification processing.
+
+[Backend](https://github.com/alwayssaheb/DevTinder-backend) · [Frontend](https://github.com/alwayssaheb/DevTinder-Frontend) · [Live application](https://dev-tinder-frontend-rust.vercel.app) · [Case study](https://you-three-snowy.vercel.app/projects/devtinder)
+
+### [Icon Enterprise](https://github.com/alwayssaheb/Icon-Enterprise.-)
+
+A production catalogue website delivered for a business to present and organize its product inventory online.
+
+`Next.js` `React` `Tailwind CSS` `Vercel`
+
+- Built reusable catalogue structures for maintainable product and category updates.
+- Designed responsive browsing for desktop and mobile customers.
+- Shipped and deployed the client-facing application on Vercel.
+
+[Repository](https://github.com/alwayssaheb/Icon-Enterprise.-) · [Live application](https://icon-enterprise.vercel.app)
+
+### [Food Delivery App](https://github.com/alwayssaheb/Food-Delivery-App)
+
+A location-aware restaurant discovery and ordering interface powered by live restaurant and menu data.
+
+`React` `Redux Toolkit` `React Router` `Tailwind CSS` `Jest`
+
+- Built location-based discovery, search, filtering, menu browsing, and a shared cart workflow.
+- Used Redux Toolkit for predictable application state and Shimmer UI for latency-aware loading states.
+- Added a testing foundation with Jest and Testing Library.
+
+[Repository](https://github.com/alwayssaheb/Food-Delivery-App) · [Live application](https://food-delivery-app-coral-beta.vercel.app)
+
+### [Netflix Portfolio](https://github.com/alwayssaheb/Netflix-portfolio)
+
+A media-inspired full-stack portfolio exploring structured content, typed components, and motion-led project discovery.
+
+`Next.js` `TypeScript` `MongoDB` `Mongoose` `Framer Motion`
+
+- Developed a typed Next.js interface with reusable media and project components.
+- Connected the application to MongoDB-backed content models.
+- Balanced animation and audio interactions with responsive navigation.
+
+[Repository](https://github.com/alwayssaheb/Netflix-portfolio) · [Live application](https://netflix-portfolio-one.vercel.app)
+
+## What I work on
+
+Backend APIs, authentication and authorization, relational and document databases, payment integrations, real-time systems, caching, performance improvements, and production deployments.
+
+## Currently strengthening
+
+- Backend system design and low-level design
+- Redis caching and distributed coordination
+- Message queues, background jobs, and failure handling
+- Database performance and observability
+- Data structures and algorithms
+
+## Contact
+
+- Portfolio: [you-three-snowy.vercel.app](https://you-three-snowy.vercel.app)
+- LinkedIn: [linkedin.com/in/saheb-singh-b3a026195](https://www.linkedin.com/in/saheb-singh-b3a026195/)
+- Email: [saheb.singh.dev@gmail.com](mailto:saheb.singh.dev@gmail.com)
