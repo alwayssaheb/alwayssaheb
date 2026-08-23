@@ -28,13 +28,18 @@ I build production web applications, scalable APIs, and real-time systems with N
 
 ### [DevTinder](https://github.com/alwayssaheb/DevTinder-backend)
 
-A full-stack developer discovery platform with connection-gated real-time messaging and presence-aware notifications.
+DevTinder is a full-stack networking platform where developers discover profiles, express interest, manage connection requests, and chat after a connection is accepted. It combines a swipe-inspired discovery flow with the permissions, persistence, and real-time infrastructure required for a complete social product.
 
 `React 19` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Redis` `Socket.IO` `BullMQ`
 
+[![Watch the DevTinder product walkthrough](https://you-three-snowy.vercel.app/devtinder-demo-poster.jpg)](https://you-three-snowy.vercel.app/devtinder-demo.mp4)
+
+**[Watch the product walkthrough →](https://you-three-snowy.vercel.app/devtinder-demo.mp4)**
+
 - Modelled discovery, connection requests, accepted connections, chat history, and notifications as separate backend domains.
 - Enforced accepted-connection permissions across both REST endpoints and Socket.IO events.
-- Used Redis for online-user presence and implemented a BullMQ worker path for asynchronous notification processing.
+- Used Socket.IO for messages and typing indicators, Redis for online-user presence, and MongoDB for persisted conversations.
+- Implemented a BullMQ worker path for asynchronous notification processing; the hosted demo uses the inline fallback because it does not run a separate worker process.
 
 [Backend](https://github.com/alwayssaheb/DevTinder-backend) · [Frontend](https://github.com/alwayssaheb/DevTinder-Frontend) · [Live application](https://dev-tinder-frontend-rust.vercel.app) · [Case study](https://you-three-snowy.vercel.app/projects/devtinder)
 
