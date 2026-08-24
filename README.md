@@ -4,7 +4,7 @@
 
 I build production web applications, scalable APIs, and real-time systems with Node.js, React, databases, and cloud infrastructure.
 
-[Portfolio](https://you-three-snowy.vercel.app) · [LinkedIn](https://www.linkedin.com/in/saheb-singh-b3a026195/) · [Email](mailto:saheb.singh.dev@gmail.com)
+[Portfolio](https://you-three-snowy.vercel.app) · [LinkedIn](https://www.linkedin.com/in/saheb-singh-b3a026195/) · [Email](mailto:saheb.nagi29@gmail.com)
 
 ## About
 
@@ -95,4 +95,4 @@ Backend APIs, authentication and authorization, relational and document database
 
 - Portfolio: [you-three-snowy.vercel.app](https://you-three-snowy.vercel.app)
 - LinkedIn: [linkedin.com/in/saheb-singh-b3a026195](https://www.linkedin.com/in/saheb-singh-b3a026195/)
-- Email: [saheb.singh.dev@gmail.com](mailto:saheb.singh.dev@gmail.com)
+- Email: [saheb.nagi29@gmail.com](mailto:saheb.nagi29@gmail.com)
